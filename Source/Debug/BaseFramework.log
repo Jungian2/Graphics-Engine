@@ -1,0 +1,21 @@
+﻿  Bitmap.cpp
+  Camera.cpp
+  DirectionalLighting.cpp
+  Framework.cpp
+  matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Model.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Model.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Model.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Model.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Model.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+  Polygon3D.cpp
+  PolygonAmbientLighting.cpp
+  Rasteriser.cpp
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Rasteriser.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Rasteriser.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+  Vector.cpp
+  vertex.cpp
+  Generating Code...
+  BaseFramework.vcxproj -> C:\Users\100544899\OneDrive - University of Derby\Graphics\BaseFramework\Debug\BaseFramework.exe
